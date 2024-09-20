@@ -1,23 +1,23 @@
-## React Boilerplate
+## What does this do?
 
-Thank you for contributing! Please take a moment to review our [**contributing guidelines**](https://github.com/react-boilerplate/react-boilerplate/blob/master/CONTRIBUTING.md)
-to make the process easy and effective for everyone involved.
+<!---
+_Describe what your changes **do**; did you add a $COOL_FEATURE? Write about it here._
+-->
 
-**Please open an issue** before embarking on any significant pull request, especially those that
-add a new library or change existing tests, otherwise you risk spending a lot of time working
-on something that might not end up being merged into the project.
+## Why did you do this?
 
-Before opening a pull request, please ensure:
+<!---
+_**Why** did you make these changes? This is your opportunity to provide the rationale that drove the design of your solution._
+-->
 
-- [ ] You have followed our [**contributing guidelines**](https://github.com/react-boilerplate/react-boilerplate/blob/master/CONTRIBUTING.md)
-- [ ] Double-check your branch is based on `dev` and targets `dev` 
-- [ ] Pull request has tests (we are going for 100% coverage!)
-- [ ] Code is well-commented, linted and follows project conventions
-- [ ] Documentation is updated (if necessary)
-- [ ] Internal code generators and templates are updated (if necessary)
-- [ ] Description explains the issue/use-case resolved and auto-closes related issues
+## Who/what does this impact?
 
-Be kind to code reviewers, please try to keep pull requests as small and focused as possible :)
+<!---
+_Does your code affect something downstream? Are there side effects people should know about? Tag any developers that should be kept abreast of this change._
+-->
 
-**IMPORTANT**: By submitting a patch, you agree to allow the project
-owners to license your work under the terms of the [MIT License](https://github.com/react-boilerplate/react-boilerplate/blob/master/LICENSE.md).
+## How did you test this?
+
+<!---
+_How did you test your change? Document it here._
+-->
